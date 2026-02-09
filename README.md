@@ -1,3 +1,14 @@
-## Welcome curious people 👋
+## 👋 Welcome, curious people
 
-I'm a **Data Engineer** passionate about building robust data pipelines and infrastructure. Currently growing my expertise in the data engineering space with a focus on modern tools and best practices. Always excited to collaborate on data projects and contribute to the open source ecosystem. Feel free to explore my repositories and connect!
+**DevOps Engineer · OSS enthusiast · Kubernetes-native**
+
+I build scalable, automated infrastructure with Kubernetes at the core.  
+Strong focus on modern CI/CD workflows using tools like Dagger.
+
+I care deeply about:
+- open source software
+- platform engineering
+- automation and reproducibility
+- sharing knowledge through code
+
+Feel free to explore my repositories and reach out if you want to collaborate.
